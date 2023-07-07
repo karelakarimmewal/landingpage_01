@@ -1,4 +1,18 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Maven Pro', sans-serif;
+}
+body{
+  background-color: #1d1b1b;
+  opacity: 0.8;
+  background-image:  radial-gradient(#5b5b5b 1px, transparent 1px), radial-gradient(#5b5b5b 1px, #0000 1px);
+  background-size: 30px 30px;
+  background-position: 0 0,30px 30px;
+}
+
+:root{
+  --color-background:  #1d1b1b;
+  --color-primary: #C5C6C7;
+  --color-secondary: linear-gradient(#C5C6C7, #474747);
 }
